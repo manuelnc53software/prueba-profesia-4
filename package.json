@@ -1,0 +1,12 @@
+{
+  "name": "aurora-web",
+  "version": "1.0.0",
+  "description": "Una web web estática lista para Railway",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
